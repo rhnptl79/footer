@@ -2,7 +2,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
 .main {
 	max-height: 550px;;
 	background-color: #292c2f;
@@ -37,8 +36,7 @@ footer{
 .footer-distributed .footer-left{
 	width: 40%;
 }
-
-
+ 
 .footer-distributed h3{
 	color:  #ffffff;
 	font: normal 36px 'Cookie', cursive;
@@ -62,14 +60,15 @@ footer{
 	text-decoration: none;
 	color:  inherit;
 }
-
+ 
 .footer-distributed .footer-company-name{
 	color:  #8f9296;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
 }
-
+ 
+ 
 .footer-distributed .footer-center{
 	width: 35%;
 }
@@ -86,18 +85,32 @@ footer{
 	margin: 10px 15px;
 	vertical-align: middle;
 }
-
+ 
 .footer-distributed .footer-center i.fa-envelope{
 	font-size: 17px;
 	line-height: 38px;
 }
-
-
-
-
-
-
-
-
-
+ 
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #ffffff;
+	vertical-align: middle;
+	margin:0;
+}
+ 
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+ 
+.footer-distributed .footer-center p a{
+	color:  #5383d3;
+	text-decoration: none;;
+}
+ 
+.footer-distributed .footer-right{
+	width: 20%;
+}
 
