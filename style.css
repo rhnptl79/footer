@@ -4,5 +4,10 @@ body{
 }
 
 .main{
-    
+    max-height: 550px;
+    background-color: #292c2f;
+    color: white;
+    font-size: 38pt;
+    text-align: center;
+    line-height: 550px;
 }
